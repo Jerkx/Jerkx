@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, My Name Is JerkKids, a Student from Muhammadiyah Indonesia🇲🇨🏫
 
-<!--
-**Jerkx/Jerkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/Jerkx)
+[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logoColor=white&link=https://https://jerkkids.wordpress.com/)](https://jerkkids.wordpress.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/)
+[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨👍 My Hobby Is Playing A Game Or Coding I Working My Projects Like [Rex](https://github.com/Jerkx/rex_project), [dorkgen](https://github.com/sundowndev/dorkgen), [spider_project](https://github.com/Jerkx/spider_project), [Virus](https://github.com/CatLearning) on my free time
+- :book: I Dont Have Much Time Coding
+- 🌱 I’m currently learning [stegosploit](https://github.com/csh/stegosploit) and Learn How Be A Pro Player
+- 💬 [Ask me about anything](https://github.com/JerkX/Ask), I am  very happy to help :)
+- **Programming**: Python, Bash ,PHP
+- **Languages**: Indo, english, Arabic
