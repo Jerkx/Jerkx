@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/)
 [![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
 
-- 👨👍📱 My Hobby Is Playing A Game Or Coding I Working My Projects Like [Rex](https://github.com/Jerkx/rex_project), [spider_project](https://github.com/Jerkx/spider_project), [Virus](https://github.com/CatLearning) on my free time
+- 👨👍📱 My Hobby Is Playing A Game Or Coding I Working My Projects Like [Rex](https://github.com/Jerkx/rex_project), [spider](https://github.com/Jerkx/spider_project), [Virus](https://github.com/CatLearning) on my free time
 - :book: I Dont Have Much Time Coding
 - 🌱🐺 I’m currently learning [stegosploit](https://github.com/csh/stegosploit) and Learn How Be A Pro Player
 - 💬 [Ask me about anything](https://github.com/JerkX/Ask), I am  very happy to help 😂😂
