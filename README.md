@@ -1,8 +1,8 @@
 ### Hi, My Name Is JerkKids👋, A Student From Muhammadiyah Indonesia🏫🇲🇨🇲🇨
 
 [![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/Jerkx)
-[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logoColor=white&link=https://https://jerkkids.wordpress.com/)](https://jerkkids.wordpress.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/)
+[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://https://facebook.com/JerkKids)](https://facebook.com/JerkKids)
+[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JerkKids)](https://t.me/JerkKids)
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram/jerkkids)](https://instagram.com/jerkkids)
 
 - 👨📱🐰 My Hobby Is Playing A Game Or Coding I Working My Projects Like [Rex](https://github.com/Jerkx/rex_project), [spider](https://github.com/Jerkx/spider_project), [Virus](https://github.com/CatLearning), [Uroboros](https://github.com/JerkX/uroboros_project) on my free time
